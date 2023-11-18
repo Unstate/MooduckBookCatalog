@@ -19,7 +19,7 @@ const LoginPage = memo(() => {
             </p>
             <Link to={'/registration'}>
               <MyButton className="w-[253px] border-mooduck-white bg-mooduck-white py-4 text-mooduck-blue">
-                зарегестрироваться
+                зарегистрироваться
               </MyButton>
             </Link>
           </div>
@@ -35,7 +35,7 @@ const LoginPage = memo(() => {
               </p>
               <Link to={'/registration'}>
                 <MyButton className="w-[253px] border-mooduck-white bg-mooduck-white py-4 text-mooduck-blue">
-                  зарегестрироваться
+                  зарегистрироваться
                 </MyButton>
               </Link>
             </div>
