@@ -117,7 +117,7 @@ const RegistrationForm = () => {
             ) : null}
             <div className="flex w-full items-center justify-center">
               <MyButton type="submit" className="mt-[22px] w-[292px] py-4">
-                зарегестрироваться
+                зарегистрироваться
               </MyButton>
               <ModalRegistration
                 visable={modal.visable}
